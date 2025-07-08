@@ -4241,3 +4241,9 @@ INFO 2025-07-08 16:45:17,173 basehttp 15396 12316 "GET /competitions/analytics/ 
 INFO 2025-07-08 16:45:23,066 basehttp 15396 12316 "GET /competitions/student-analytics/ HTTP/1.1" 200 11182
 INFO 2025-07-08 18:13:36,244 autoreload 15396 2644 C:\Users\Acer\OneDrive\Bureau\math4\manage.py changed, reloading.
 INFO 2025-07-08 18:13:39,670 autoreload 16212 13672 Watching for file changes with StatReloader
+INFO 2025-07-08 18:19:34,493 autoreload 16212 13672 C:\Users\Acer\OneDrive\Bureau\math4\alhassan\wsgi.py changed, reloading.
+INFO 2025-07-08 18:19:36,793 autoreload 6232 15860 Watching for file changes with StatReloader
+INFO 2025-07-08 18:20:25,972 autoreload 6232 15860 C:\Users\Acer\OneDrive\Bureau\math4\alhassan\wsgi.py changed, reloading.
+INFO 2025-07-08 18:20:27,743 autoreload 17580 14004 Watching for file changes with StatReloader
+INFO 2025-07-08 18:20:57,900 autoreload 17580 14004 C:\Users\Acer\OneDrive\Bureau\math4\manage.py changed, reloading.
+INFO 2025-07-08 18:21:00,553 autoreload 1868 3500 Watching for file changes with StatReloader
