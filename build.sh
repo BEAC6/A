@@ -4,6 +4,5 @@ set -o errexit
 
 pip install -r requirements.txt
 
-export PYTHONPATH=.
-python manage.py collectstatic --no-input
-python manage.py migrate
+PYTHONPATH=. python manage.py collectstatic --no-input
+PYTHONPATH=. python manage.py migrate
