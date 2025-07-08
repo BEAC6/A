@@ -4239,3 +4239,5 @@ INFO 2025-07-08 16:44:52,162 basehttp 15396 12316 "POST /accounts/login/ HTTP/1.
 INFO 2025-07-08 16:44:52,202 basehttp 15396 12316 "GET /competitions/ HTTP/1.1" 200 11457
 INFO 2025-07-08 16:45:17,173 basehttp 15396 12316 "GET /competitions/analytics/ HTTP/1.1" 200 15124
 INFO 2025-07-08 16:45:23,066 basehttp 15396 12316 "GET /competitions/student-analytics/ HTTP/1.1" 200 11182
+INFO 2025-07-08 18:13:36,244 autoreload 15396 2644 C:\Users\Acer\OneDrive\Bureau\math4\manage.py changed, reloading.
+INFO 2025-07-08 18:13:39,670 autoreload 16212 13672 Watching for file changes with StatReloader
